@@ -1,6 +1,6 @@
 # E-Commerce System in C
 
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/d62b7U8uzpw?si=fMn0GXDL6RjfjfBT
 
 #### Description:
 The E-Commerce System in C is a command-line application designed to simulate an online store, where users can browse products, add them to their shopping cart, and proceed to checkout. This project is implemented in the C programming language and includes functionality such as user registration, login, product browsing, and order management. The system also supports loyalty points for returning users, adding a personalized touch to the shopping experience.
